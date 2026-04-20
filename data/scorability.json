@@ -1,0 +1,31 @@
+{
+  "total": 500,
+  "literal_overall": 236,
+  "literal_pct": 47.199999999999996,
+  "by_type": {
+    "single-session-user": {
+      "literal": 57,
+      "total": 70
+    },
+    "multi-session": {
+      "literal": 52,
+      "total": 133
+    },
+    "single-session-preference": {
+      "literal": 0,
+      "total": 30
+    },
+    "temporal-reasoning": {
+      "literal": 38,
+      "total": 133
+    },
+    "knowledge-update": {
+      "literal": 58,
+      "total": 78
+    },
+    "single-session-assistant": {
+      "literal": 31,
+      "total": 56
+    }
+  }
+}

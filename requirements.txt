@@ -1,0 +1,17 @@
+# Pinned to known-working versions as of April 2026 on Colab T4.
+# If anything breaks, these are the versions that passed the article's eval runs.
+
+transformers>=5.5,<6.0
+accelerate>=1.0
+bitsandbytes>=0.44
+hqq>=0.2.2
+chromadb>=0.5
+sentence-transformers>=3.0
+google-genai>=1.0
+scikit-learn>=1.5
+datasets>=3.0
+huggingface_hub>=0.26
+
+# Pinned upstream of the notebook:
+#   torch: whatever Colab ships (PyTorch 2.6+ as of April 2026)
+#   cuda:  12.4+ (Colab default)
