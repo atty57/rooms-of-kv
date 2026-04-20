@@ -1,6 +1,6 @@
 # rooms-of-kv
 
-Companion code and data for *[[Two architectures that didn't help small-model agent memory on a free T4](https://dev.to/atty57/two-architectures-that-didnt-help-small-model-agent-memory-on-a-free-t4-d57)](#)*.
+Companion code and data for *[Two architectures that didn't help small-model agent memory on a free T4(https://dev.to/atty57/two-architectures-that-didnt-help-small-model-agent-memory-on-a-free-t4-d57)](#)*.
 
 On a 50-question stratified LongMemEval_S sample, neither k-means room routing nor LLM reranking improved over a flat top-5 RAG baseline for Qwen3-4B on a free Colab T4. In this setup, retrieval quality looked adequate, while downstream answer synthesis remained the main observed weakness.
 
