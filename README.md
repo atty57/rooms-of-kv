@@ -68,7 +68,7 @@ B7 Rerank: 21/50 = 42.0%
 
 ### 2. Full reproduction on Colab T4
 
-Open `reproduce.ipynb` in Colab ([direct link](#)), set runtime to **T4 GPU**, and run all cells. Total wall time: ~2 hours.
+Open `reproduce.ipynb` in Colab, set runtime to **T4 GPU**, and run all cells. Total wall time: ~2 hours.
 
 Requirements:
 - Free Colab tier with T4 GPU
